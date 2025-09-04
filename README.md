@@ -6,9 +6,7 @@
 [![Urdu Support](https://img.shields.io/badge/Language-Urdu-red)](https://en.wikipedia.org/wiki/Urdu)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-![System Architecture](https://i.imgur.com/architecture.png)  
-*Architecture Diagram (Replace with actual image)*
-
+ 
 ---
 
 ## 📌 Overview
