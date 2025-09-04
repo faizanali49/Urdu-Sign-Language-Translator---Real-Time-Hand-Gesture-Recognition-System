@@ -77,7 +77,8 @@ graph TD
    python collect.py
    ```
 2. Label gestures (e.g., "alif", "bay", "tay"):
-   ![Data Collection Interface](https://i.imgur.com/data_collection.png)
+<img width="482" height="107" alt="Screenshot 2025-09-04 190559" src="https://github.com/user-attachments/assets/f0539048-1488-4e8d-a44e-0459f54eb3a3" />
+
 
 ---
 
@@ -90,6 +91,8 @@ python collect.py
 - Enter gesture names
 - Press `s` to start recording
 - Collect minimum 50 samples per gesture
+<img width="642" height="515" alt="Screenshot 2025-09-04 190624" src="https://github.com/user-attachments/assets/989fc39e-b75a-40df-a0ec-6704733319bd" />
+
 
 ### 2. Model Training
 ```bash
@@ -103,7 +106,8 @@ python training.py
 ```bash
 python live_translation.py
 ```
-![Live Translation UI](https://i.imgur.com/live_ui.png)
+![Uploading Screenshot 2025-09-04 190239.png…]()
+
 - Click "Start Recognition"
 - Detected gestures appear in Urdu
 - Use "Speak" for audio output
@@ -157,10 +161,7 @@ def join_urdu_letters(letters):
 
 ---
 
-## 📄 License
-
-MIT License - Feel free to modify and distribute this code for educational purposes.
-
----
-
-> **Note**: Replace placeholder images with actual screenshots from your implementation. For complete API documentation, see our [Wiki](https://github.com/your-username/urdu-sign-language/wiki).
+## The Complete Project with code is available on request
+```
+https://github.com/faizanali49
+```
