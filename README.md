@@ -104,7 +104,8 @@ python training.py
 ```bash
 python live_translation.py
 ```
-![Uploading Screenshot 2025-09-04 190239.png…]()
+<img width="947" height="879" alt="Screenshot 2025-09-04 190239" src="https://github.com/user-attachments/assets/25ef4939-0977-44fc-97d6-6518b60e272f" />
+
 
 - Click "Start Recognition"
 - Detected gestures appear in Urdu
@@ -159,7 +160,7 @@ def join_urdu_letters(letters):
 
 ---
 
-## The Complete Project with code is available on request
+## The Complete Project with code is freely available
 ```
 https://github.com/faizanali49
 ```
